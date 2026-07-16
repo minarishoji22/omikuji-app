@@ -50,4 +50,4 @@
 
 ## 画像素材
 
-おみくじ画像:[いらすとや](http://www.irastoya.com/)
+おみくじ画像:[いらすとや](http://www.irasutoya.com/)
